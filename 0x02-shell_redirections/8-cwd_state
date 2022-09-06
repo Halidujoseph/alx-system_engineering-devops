@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bas
-ls -la > ls_cwd_content
-=======
 #!/bin/bash
-echo 'ls -la' > ls_cwd_content > 8-cwd_state
->>>>>>> 87fd3e54494f6a6af41de67b998b2aa5d943a4ec
+ls -la > ls_cwd_content
